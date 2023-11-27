@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salah Eddine OUIKENE</h1>
 <h3 align="center">Etudiant passionné par la Data Science</h3>
 
-- 🎓 Admis en Master 1 **MLSD de l'université Paris Cité**
+- 🎓 Etudiant en Master 1 **MLSD de l'université Paris Cité**
 
 - 🔎 Je suis en recherche d'Alternance en **Data Science**
 
