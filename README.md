@@ -3,7 +3,7 @@
 
 - 🎓 Etudiant en Master 1 **MLSD de l'université Paris Cité**
 
-- 🔎 Je suis en recherche d'Alternance en **Data Science**
+- 🔎 Je suis en recherche de Stage en **Data Science**
 
 - 📫 E-mail **ouikenesalah@gmail.com**
 
